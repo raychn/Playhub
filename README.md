@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🎬 PlayHUB</h1>
   <p align="center">
-    <strong>Box 配置的 Web 化播放器</strong> —— 基于 <a href="https://github.com/takagen99/TVBoxOSC">takagen99-TVBoxOSC</a> 的复刻
+    <strong>Box 配置的 Web 化播放器</strong>
   </p>
 </p>
 
@@ -129,13 +129,6 @@ mvn spring-boot:run
 
 - 当前后端 **优先支持 `type=3`（JAR Spider）** 以及提供标准 JSON 接口的站点。  
 
----
-
-## 🙏 致谢
-
-- [takagen99/TVBoxOSC](https://github.com/takagen99/TVBoxOSC) —— 本项目灵感与核心逻辑来源  
-
-> 如果 PlayHUB 对你有帮助，欢迎给个 ⭐ Star 鼓励一下！
 
 ---
 
